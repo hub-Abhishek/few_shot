@@ -24,6 +24,7 @@ In this repository, we've implemented FSL using Prototypical Networks.
 
 ## Few shot learning - a n way, k shot algorithm
 ![Class prototypes c_i and query sample x](Resources/few_shot_proto.jpg)
+
 A typical few shot learning task involves **"n"** classes, each with **"k"** sample annotated images. There are also 
 sample **"q"** labeled test images which can help evaluate a model's performance. The algorithm runs as follows:
 
