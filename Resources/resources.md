@@ -22,6 +22,10 @@ https://proceedings.neurips.cc/paper/1993/file/288cc0ff022877bd3df94bc9360b9c5d-
 https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf
 https://arxiv.org/abs/1503.03832
 
+https://towardsdatascience.com/few-shot-learning-with-prototypical-networks-87949de03ccd
+https://github.com/cnielly/prototypical-networks-omniglot
+https://medium.com/aiguys/few-shot-learning-f52dad01bd00
+
 Implementation
 https://github.com/sicara/easy-few-shot-learning/blob/master/notebooks/my_first_few_shot_classifier.ipynb
 
